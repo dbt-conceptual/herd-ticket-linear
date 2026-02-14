@@ -33,9 +33,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/dbt-conceptual/herd-ticket-linear"
-Repository = "https://github.com/dbt-conceptual/herd-ticket-linear"
-Issues = "https://github.com/dbt-conceptual/herd-ticket-linear/issues"
+Homepage = "https://github.com/herd-ag/herd-ticket-linear"
+Repository = "https://github.com/herd-ag/herd-ticket-linear"
+Issues = "https://github.com/herd-ag/herd-ticket-linear/issues"
 
 [project.optional-dependencies]
 dev = ["pytest>=7.0"]

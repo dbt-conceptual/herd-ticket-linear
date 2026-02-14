@@ -2,7 +2,7 @@
 
 Herd ticket lifecycle adapter for Linear — implements `TicketAdapter` protocol from herd-core.
 
-Part of [The Herd](https://github.com/dbt-conceptual/herd-core) ecosystem.
+Part of [The Herd](https://github.com/herd-ag/herd-core) ecosystem.
 
 ## Installation
 

@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "herd-ticket-linear"
+version = "0.1.0"
+description = "Herd ticket lifecycle adapter for Linear — implements TicketAdapter protocol."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [{ name = "Faust Eriksen" }]
+keywords = ["ai", "agents", "herd", "linear", "tickets"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+]
+dependencies = ["herd-core>=0.0.1"]
+
+[project.urls]
+Repository = "https://github.com/dbt-conceptual/herd-ticket-linear"
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]

@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Herd ticket lifecycle adapter for Linear — implements TicketAdapter protocol."
 readme = "README.md"
 license = "MIT"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 authors = [
     { name = "Faust Eriksen" }
 ]
